@@ -1,2 +1,2 @@
 # Item-Recommendation
-- Recommendation System using item base collaborative filtering.
+- Recommendation System using item-based collaborative filtering.
